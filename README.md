@@ -62,8 +62,8 @@ On macOS/Linux:
 ./traffic_queue
 ```
 
-### Option 2: Using Dev-C++
-1. Open Dev-C++.
+### Option 2: Using visual studio code
+1. Open VScode
 2. Select **File → New → Source File**.
 3. Copy the code from `main.cpp` and paste it.
 4. Save as `main.cpp`.
@@ -88,4 +88,5 @@ Let `n` be the number of vehicles waiting:
 This is an educational console simulation, not a live traffic-control system. It does not connect to real traffic lights, sensors, cameras, or emergency-service systems.
 
 ## Author
-Add your name and class details here.
+Shruti pankaj chavan
+class: SY(Btech)
