@@ -1,0 +1,66 @@
+ C:\Users\HP\Downloads\Smart_Traffic_Signal_Queue_Simulator\Smart_Traffic_Signal_Queue_Simulator> .\main
+
+========== SMART TRAFFIC SIGNAL QUEUE SIMULATOR ==========
+1. Add arriving vehicle (Enqueue)
+2. Green signal: let first vehicle pass (Dequeue)
+3. Display waiting vehicles
+4. Search vehicle by number
+5. Count waiting vehicles
+6. Check if queue is empty
+0. Exit
+Enter your choice: 1
+Enter vehicle number (e.g., MH12AB1234): 2
+Enter vehicle type (Car/Bike/Bus/Auto): car
+
+Vehicle added successfully. Token: 1
+
+========== SMART TRAFFIC SIGNAL QUEUE SIMULATOR ==========
+1. Add arriving vehicle (Enqueue)
+2. Green signal: let first vehicle pass (Dequeue)
+3. Display waiting vehicles
+4. Search vehicle by number
+5. Count waiting vehicles
+6. Check if queue is empty
+0. Exit
+Enter your choice: 3
+
+--- VEHICLES WAITING AT RED SIGNAL ---
+FRONT
+[Token: 1 | Number: 2 | Type: car]
+REAR
+
+========== SMART TRAFFIC SIGNAL QUEUE SIMULATOR ==========
+1. Add arriving vehicle (Enqueue)
+2. Green signal: let first vehicle pass (Dequeue)
+3. Display waiting vehicles
+4. Search vehicle by number
+5. Count waiting vehicles
+6. Check if queue is empty
+0. Exit
+Enter your choice: 2
+
+Vehicle passed: 2 (car), Token: 1
+
+========== SMART TRAFFIC SIGNAL QUEUE SIMULATOR ==========
+1. Add arriving vehicle (Enqueue)
+2. Green signal: let first vehicle pass (Dequeue)
+3. Display waiting vehicles
+4. Search vehicle by number
+5. Count waiting vehicles
+6. Check if queue is empty
+0. Exit
+Enter your choice: 3
+
+The queue is empty.
+
+========== SMART TRAFFIC SIGNAL QUEUE SIMULATOR ==========
+1. Add arriving vehicle (Enqueue)
+2. Green signal: let first vehicle pass (Dequeue)
+3. Display waiting vehicles
+4. Search vehicle by number
+5. Count waiting vehicles
+6. Check if queue is empty
+0. Exit
+Enter your choice: 3
+
+The queue is empty.
